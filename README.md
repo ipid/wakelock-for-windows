@@ -1,4 +1,4 @@
-<h1 align="center">Wakelock for Windows</h1>
+<h1 align="center"><img src="./doc/wakelock.svg" alt="Wakelock logo"></h1>
 
 <p align="center"><i>Keep your Windows PC awake.</i></p>
 
