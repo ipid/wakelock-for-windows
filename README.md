@@ -1,19 +1,14 @@
 <h1 align="center"><img src="./doc/wakelock.svg" alt="Wakelock logo"></h1>
 
-<p align="center"><i>Keep your Windows PC awake.</i></p>
+<h3 align="center"><i>Keep your Windows PC awake.</i></h3>
 
 <br>
 
 ## Introduction
 
-Simply type `wakelock` in your terminal:
+Simply run the `wakelock` binary in your terminal:
 
-![Demonstration of using Wakelock in the terminal](https://user-images.githubusercontent.com/5251264/132634256-62b722c2-ed97-49ec-be6a-f6e10da45a80.png)
-
-Then, your Windows PC:
-
-- Won't sleep or turn the monitor off.
-- If you forcibly make the computer sleep, then it won't actually sleep.
+![Demonstration of using Wakelock in the terminal](https://user-images.githubusercontent.com/5251264/132675300-38bc94d1-364e-4291-8d81-48eeeeaede7d.png)
 
 <br>
 
@@ -25,7 +20,15 @@ Goto the [Release](https://github.com/ipid/wakelock-for-windows/releases) page.
 
 ## Compatibility
 
-Supports Windows 7+. The x86 version is provided thus it supports both x86 and x86_64 operating systems.
+### Operating system
+
+Prebuilt binary only supports Windows 7+ or Windows Server 2012+.
+
+_NOTE: The source code is compatible with all Windows version later than Windows 2000, but you need to build it on your own._
+
+### Architecture
+
+`x86` (32-bit), `x86_64` (64-bit) and `ARM64` are supported.
 
 <br>
 
@@ -34,3 +37,4 @@ Supports Windows 7+. The x86 version is provided thus it supports both x86 and x
 Published under the MIT license.
 
 <br>
+
