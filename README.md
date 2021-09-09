@@ -6,15 +6,15 @@
 
 ## Introduction
 
-Simply run the `wakelock` binary in your terminal:
+Double-click to run the `wakelock.exe` or through the command line:
 
-![Demonstration of using Wakelock in the terminal](https://user-images.githubusercontent.com/5251264/132675300-38bc94d1-364e-4291-8d81-48eeeeaede7d.png)
+![Demonstration of using Wakelock in the terminal](https://user-images.githubusercontent.com/5251264/132686225-b145b060-d8d1-46e0-a484-7c8d14a1b541.png)
 
 <br>
 
 ## Download
 
-Goto the [Release](https://github.com/ipid/wakelock-for-windows/releases) page.
+Goto the [Release](https://github.com/ipid/wakelock-for-windows/releases) page for prebuilt binaries.
 
 <br>
 
@@ -22,9 +22,7 @@ Goto the [Release](https://github.com/ipid/wakelock-for-windows/releases) page.
 
 ### Operating system
 
-Prebuilt binary only supports Windows 7+ or Windows Server 2012+.
-
-_NOTE: The source code is compatible with all Windows version later than Windows 2000, but you need to build it on your own._
+Supports Windows 7+ or Windows Server 2012+.
 
 ### Architecture
 
