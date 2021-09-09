@@ -8,7 +8,7 @@
 
 Simply type `wakelock` in your terminal:
 
-
+![Demonstration of using Wakelock in the terminal](https://user-images.githubusercontent.com/5251264/132634256-62b722c2-ed97-49ec-be6a-f6e10da45a80.png)
 
 Then, your Windows PC:
 
