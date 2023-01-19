@@ -7,10 +7,10 @@ const char* prompt =
 "\n"
 "While this program is running, your computer:\n"
 "  - Won't sleep or turn the monitor off automatically.\n"
-"  - Is block from shutting down.\n"
-"  - If you forcibly make the computer sleep, then it won't actually sleep.\n"
+"  - Will be prevented from shutting down.\n"
+"  - Won't go to sleep or hibernate.\n"
 "\n"
-"Click Ctrl+C to unlock...\n"
+"Press Ctrl+C to unlock...\n"
 ;
 
 BOOL WINAPI CtrlHandler(DWORD fdwCtrlType) {
