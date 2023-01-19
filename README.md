@@ -8,7 +8,7 @@
 
 Double-click to run the `wakelock.exe` or through the command line:
 
-![Demonstration of using Wakelock in the terminal](https://user-images.githubusercontent.com/5251264/132686225-b145b060-d8d1-46e0-a484-7c8d14a1b541.png)
+![Demonstration of using Wakelock in the terminal](https://user-images.githubusercontent.com/5251264/213500690-70df0d4c-836e-45c6-a3a4-79d45c90ea28.png)
 
 <br>
 
